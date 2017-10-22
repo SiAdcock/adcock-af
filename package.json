@@ -13,11 +13,6 @@
   "engines": {
     "node": "8.7.0"
   },
-  "babel": {
-    "presets": [
-      "es2015"
-    ]
-  },
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-preset-env": "^1.6.1",
